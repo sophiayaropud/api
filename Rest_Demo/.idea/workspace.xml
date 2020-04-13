@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19e20f24-1551-4fe1-99fb-c9a3de4e376b" name="Default Changelist" comment="" />
+    <list default="true" id="19e20f24-1551-4fe1-99fb-c9a3de4e376b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +12,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1Zs2TJNW5FGxCAHtqylbABMy5rf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,7 +42,42 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.Api">
+    <configuration name="Api" type="TestNG">
+      <module name="Rest_Demo" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Rest_Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.petstore.test.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.petstore.test.user" />
+      <option name="MAIN_CLASS_NAME" value="com.petstore.test.user.ApiLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="testng" type="TestNG">
       <module name="Rest_Demo" />
       <useClassPathOnly />
@@ -44,6 +96,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.testng" />
+      <item itemvalue="TestNG.Api" />
+      <item itemvalue="TestNG.ApiLoginTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiLoginTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -59,29 +121,32 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585613557305">
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586788454588">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1585613557305" />
-    <state width="1398" height="294" key="GridCell.Tab.0.bottom" timestamp="1585644522286">
+    <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1586788454588" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1586788718453">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1585642831856" />
-    <state width="1398" height="294" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1585644522286" />
-    <state width="1398" height="294" key="GridCell.Tab.0.center" timestamp="1585644522286">
+    <state width="1398" height="116" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586788521267" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1586788718453" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1586788718453">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1585642831855" />
-    <state width="1398" height="294" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1585644522286" />
-    <state width="1398" height="294" key="GridCell.Tab.0.left" timestamp="1585644522285">
+    <state width="1398" height="116" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586788521265" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1586788718453" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1586788718452">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1585642831855" />
-    <state width="1398" height="294" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1585644522285" />
-    <state width="1398" height="294" key="GridCell.Tab.0.right" timestamp="1585644522286">
+    <state width="1398" height="116" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586788521264" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1586788718452" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1586788718453">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
-    <state width="1398" height="294" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1585642831855" />
-    <state width="1398" height="294" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1585644522286" />
+    <state width="1398" height="116" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586788521266" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1586788718453" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Rest_Demo$Api.ic" NAME="Api Coverage Results" MODIFIED="1586788712972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
