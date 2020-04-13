@@ -5,12 +5,12 @@
         <classes>
             <class name="com.petstore.test.user.ApiLoginTest">
             </class>
-            <class name="com.petstore.test.user.ApiPostAndGetTest">
-            </class>
-            <class name="com.petstore.test.user.ApiTestWithIncorrectData">
-            </class>
-            <class name="com.petstore.test.user.ApiLogoutTest">
-            </class>
+<!--            <class name="com.petstore.test.user.ApiPostAndGetTest">-->
+<!--            </class>-->
+<!--            <class name="com.petstore.test.user.ApiTestWithIncorrectData">-->
+<!--            </class>-->
+<!--            <class name="com.petstore.test.user.ApiLogoutTest">-->
+<!--            </class>-->
         </classes>
     </test>
 </suite>

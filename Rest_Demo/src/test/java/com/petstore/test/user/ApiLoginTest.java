@@ -11,13 +11,13 @@ import static org.testng.AssertJUnit.assertNotNull;
 
 public class ApiLoginTest {
 
-    private String host=System.getenv("API_URL");
+    //private String host=System.getenv("API_URL");
 
     @Test(priority = 1)
     public void checkLoginStatusCode() {
 
-        Response response = RestAssured.given().baseUri(host)
-                .basePath("/api/v3/user/login")
+        Response response = RestAssured.given().baseUri("https://petstore.swagger.io")
+                .basePath("/v2/user/login")
                 .accept(ContentType.JSON)
                 .queryParam("username", "theUser")
                 .queryParam("password", "12345")
