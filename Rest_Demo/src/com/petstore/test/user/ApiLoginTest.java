@@ -17,11 +17,11 @@ public class ApiLoginTest {
     public void checkLoginStatusCode() {
 
         Response response = RestAssured.given().baseUri("http://localhost:9000")
-                .basePath("/api/v3/user/login")
+                .basePath("/api/v3")
                 .accept(ContentType.JSON)
                 .queryParam("username", "theUser")
                 .queryParam("password", "12345")
-                .when().get()
+                .when().get("/user/login")
                 .then()
                 .extract().response();
         String statusLine =response.statusLine().substring(13,15);

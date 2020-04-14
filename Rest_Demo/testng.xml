@@ -5,11 +5,11 @@
         <classes>
             <class name="com.petstore.test.user.ApiLoginTest">
             </class>
-<!--            <class name="com.petstore.test.user.ApiPostAndGetTest">-->
+<!--            <class name="ApiPostAndGetTest">-->
 <!--            </class>-->
-<!--            <class name="com.petstore.test.user.ApiTestWithIncorrectData">-->
+<!--            <class name="ApiTestWithIncorrectData">-->
 <!--            </class>-->
-<!--            <class name="com.petstore.test.user.ApiLogoutTest">-->
+<!--            <class name="ApiLogoutTest">-->
 <!--            </class>-->
         </classes>
     </test>

@@ -2,7 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19e20f24-1551-4fe1-99fb-c9a3de4e376b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_2_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_activation_1_1_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rest_Demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Rest_Demo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/data/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/data/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/data/OrderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/data/OrderRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/data/Userio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/data/Userio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/data/UserioRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/data/UserioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/pet/FindByStatusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/pet/FindByStatusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/pet/FindByTagsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/pet/FindByTagsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/pet/NewPetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/pet/NewPetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/pet/RestApiSearshTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/pet/RestApiSearshTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/pet/UpdateDeletePets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/pet/UpdateDeletePets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/store/DeleteStoreOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/store/DeleteStoreOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/store/GetStoreInventoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/store/GetStoreInventoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/store/create_order/SendRequestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/store/create_order/SendRequestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/store/get_order/ReturningStatusCodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/store/get_order/ReturningStatusCodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/user/ApiLoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/user/ApiLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/user/ApiLogoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/user/ApiLogoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/user/ApiPostAndGetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/user/ApiPostAndGetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/user/ApiTestWithIncorrectData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/user/ApiTestWithIncorrectData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/petstore/test/user/ResponseUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/petstore/test/user/ResponseUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +89,12 @@
       <module name="Rest_Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.petstore.test.user.*" />
+          <option name="PATTERN" value="test.java.com.petstore.test.user.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.petstore.test.user" />
-      <option name="MAIN_CLASS_NAME" value="com.petstore.test.user.ApiLoginTest" />
+      <option name="MAIN_CLASS_NAME" value="test.java.com.petstore.test.user.ApiLoginTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -124,25 +149,25 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1586788454588" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1586861243734">
+    <state width="1398" height="339" key="GridCell.Tab.0.bottom" timestamp="1586864740728">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586861243734" />
+    <state width="1398" height="339" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586864740728" />
     <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1586788789297" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1586861243733">
+    <state width="1398" height="339" key="GridCell.Tab.0.center" timestamp="1586864740727">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586861243733" />
+    <state width="1398" height="339" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586864740727" />
     <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1586788789296" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1586861243732">
+    <state width="1398" height="339" key="GridCell.Tab.0.left" timestamp="1586864740727">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586861243732" />
+    <state width="1398" height="339" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586864740727" />
     <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1586788789295" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1586861243734">
+    <state width="1398" height="339" key="GridCell.Tab.0.right" timestamp="1586864740727">
       <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586861243734" />
+    <state width="1398" height="339" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586864740727" />
     <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1586788789296" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
