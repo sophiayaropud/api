@@ -126,25 +126,25 @@
       <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="184" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.800@0.23.1440.800" timestamp="1586788454588" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1586788789297">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1586861243734">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="116" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586788521267" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.800@0.23.1440.800" timestamp="1586861243734" />
     <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1586788789297" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1586788789296">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1586861243733">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="116" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586788521265" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.800@0.23.1440.800" timestamp="1586861243733" />
     <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1586788789296" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1586788789295">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1586861243732">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="116" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586788521264" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.800@0.23.1440.800" timestamp="1586861243732" />
     <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1586788789295" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1586788789296">
-      <screen x="0" y="23" width="1440" height="803" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1586861243734">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
-    <state width="1398" height="116" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586788521266" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.800@0.23.1440.800" timestamp="1586861243734" />
     <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1586788789296" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
