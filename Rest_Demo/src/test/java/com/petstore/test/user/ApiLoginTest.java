@@ -16,7 +16,7 @@ public class ApiLoginTest {
     @Test(priority = 1)
     public void checkLoginStatusCode() {
 
-        Response response = RestAssured.given().baseUri("http://52.231.154.35:9000")
+        Response response = RestAssured.given().baseUri("http://localhost:9000")
                 .basePath("/api/v3/user/login")
                 .accept(ContentType.JSON)
                 .queryParam("username", "theUser")
